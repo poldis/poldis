@@ -1,10 +1,6 @@
 # Welcome to my Github Profile! 👋
 Software developer born and raised in Germany, fluent in both German and English. I have experience building personal and professional projects using WordPress, TypeScript, React, HTML, CSS, and other modern web technologies.
 
-## Discord
-![Discord Profile](https://discord.c99.nl/widget/theme-4/645580301057392650.png)  
-
-
 ## Languages and Tools  
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
