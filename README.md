@@ -1,5 +1,5 @@
 # Welcome to my Github Profile! 👋
-Born and raised in Germany, bilingual (EN/DE). Worked on projects including JavaScript, Typescript, React.js, Python, HTML 5, CSS 3 & PHP 8. Experienced with WordPress, Ubuntu & Kali/Debian.
+Software developer born and raised in Germany, fluent in both German and English. I have experience building personal and professional projects using WordPress, TypeScript, React, HTML, CSS, and other modern web technologies.
 
 ## Discord
 ![Discord Profile](https://discord.c99.nl/widget/theme-4/645580301057392650.png)  
