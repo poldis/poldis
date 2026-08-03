@@ -1,7 +1,9 @@
-# Welcome to my Github Profile! 👋
-Software developer born and raised in Germany, fluent in both German and English. I have experience building personal and professional projects using WordPress, TypeScript, React, HTML, CSS, and other modern web technologies.
+# Hi, I'm Poldi 👋
 
-## Languages and Tools  
+I'm a software developer based in Germany, fluent in both German and English. I enjoy building modern, responsive web applications and have experience delivering both personal and professional projects. My primary focus is on front-end development and full-stack web technologies.
+
+## Languages & Tools
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -39,10 +41,10 @@ Software developer born and raised in Germany, fluent in both German and English
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
   </a>
 
-  & more
+<strong> + more</strong>
+
 </p>
 
-## Github  
-![Metrics](https://github.com/poldis/poldis/blob/master/github-metrics.svg)
+## GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poldis&show_icons=true&locale=en&layout=compact&bg_color=66000000&hide_border=true&text_color=777771" alt="poldis" /></p>
+![Metrics](https://github.com/poldis/poldis/blob/master/github-metrics.svg)
