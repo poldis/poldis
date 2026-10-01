@@ -1,6 +1,6 @@
 # Hi, I'm Poldi 👋
 
-I'm a software developer based in Germany, fluent in both German and English. I enjoy building modern, responsive web applications and have experience delivering both personal and professional projects. My primary focus is on front-end development and full-stack web technologies.
+I'm a software developer based in Germany, fluent in both German and English. I enjoy building modern, responsive (web) applications and have experience delivering both personal and professional projects. My primary focus is on front-end development and full-stack technologies.
 
 ## Languages & Tools
 
